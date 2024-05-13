@@ -5,5 +5,4 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
 <h3>🚀 Tecnologias e ferramentas:</h3>
 
 
-![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)![biblioteca](https://github.com/beatrizac03/beatrizac03/assets/134962161/94261bb0-36a6-4cca-8cec-b19d9f479032)
-
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)  ![reactjs](https://github.com/beatrizac03/beatrizac03/assets/134962161/5ffe0b67-5928-43f9-a934-201b80b1b4b6)![PHP](https://img.icons8.com/color/48/000000/php.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)

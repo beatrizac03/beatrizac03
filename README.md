@@ -50,3 +50,5 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatrizac03&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizac03&theme=github_dark"/>
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=szbya13sz)

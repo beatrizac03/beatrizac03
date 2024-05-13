@@ -57,12 +57,14 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
  <div>
   <details>
    <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Beatriz's Spotify Data</summary>
-   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
+   <img src="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=szbya13sz">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=szbya13sz" alt="Data Card for Spotify">
+</a>" alt="Data Card for Spotify">
   </details>
  </div>
 
  <div>
-  <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+  <img alt="Spotify" width="200px" height="270px" src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szbya13sz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)"/> &nbsp; &nbsp; 
   <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=szbya13sz&count=10"/>
  </div>
 

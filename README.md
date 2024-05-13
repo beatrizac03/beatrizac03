@@ -64,7 +64,7 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
  </div>
 
  <div>
-  <img alt="Spotify" width="200px" height="270px" src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szbya13sz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)"/> &nbsp; &nbsp; 
+  <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=szbya13sz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> &nbsp; &nbsp; 
   <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=szbya13sz&count=10"/>
  </div>
 

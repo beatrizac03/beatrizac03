@@ -67,10 +67,11 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
 
 ----
 
+<!--
 <div>
  <div>
   <details>
-   <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Beatriz's Spotify Data</summary>
+   <summary><img height="" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Beatriz's Spotify Data</summary>
    <img src="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=szbya13sz">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=szbya13sz" alt="Data Card for Spotify">
 </a>" alt="Data Card for Spotify">
@@ -82,4 +83,6 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
   <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=szbya13sz&count=10"/>
  </div>
 
-</div>
+</div>  
+-->
+

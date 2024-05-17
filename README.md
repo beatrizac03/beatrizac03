@@ -2,14 +2,20 @@
 
 Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar soluções criativas e funcionais. Com 20 anos de idade e cursando Sistemas de Informação, venho constantemente me aprimorando no mundo do desenvolvimento de software com foco em Desenvolvimento Web. Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
 
-<h3>🚀 Tecnologias e ferramentas:</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias e ferramentas</b>
+<br>
 
+<!-- 
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![react](https://github.com/beatrizac03/beatrizac03/assets/134962161/4ab09ea9-cfa4-43d8-9b9d-55ff3212e98d) ![tailwind](https://github.com/beatrizac03/beatrizac03/assets/134962161/6f0f97ba-fe05-43b7-8766-6ecf47b4eefe) ![Bootstrap](https://img.icons8.com/color/48/bootstrap--v2.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![git](https://github.com/beatrizac03/beatrizac03/assets/134962161/292db889-7e1d-47a4-9741-fd2262922c14) -->
 
-![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![react](https://github.com/beatrizac03/beatrizac03/assets/134962161/4ab09ea9-cfa4-43d8-9b9d-55ff3212e98d) ![tailwind](https://github.com/beatrizac03/beatrizac03/assets/134962161/6f0f97ba-fe05-43b7-8766-6ecf47b4eefe)![PHP](https://img.icons8.com/color/48/000000/php.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![git](https://github.com/beatrizac03/beatrizac03/assets/134962161/292db889-7e1d-47a4-9741-fd2262922c14)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma,java,mysql,php&perline=14" />
+  </a>
+</p>
 
-
-<h3>Redes sociais</h3>
-
+## Contato
+<!--
 <div align="center">
 <table>
 <tr>
@@ -38,24 +44,19 @@ Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar sol
 </tr> 
 </table>
 
-</div>
+</div> -->
 
------
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
-----
+<p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/beatriz-aguiar-campos-519286233/?originalSubdomain=br" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:beatrizaguiarc14@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
 
-<img height="20" alt="GIF" src="https://github.com/beatrizac03/beatrizac03/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizac03&theme=github_dark"/>

@@ -1,6 +1,6 @@
 ### Olá! 👋💻👩
 
-Sou a Beatriz, uma profissional apaixonada por tecnologia e motivada a criar soluções criativas e funcionais. Com 20 anos de idade e cursando Sistemas de Informação, venho constantemente me aprimorando no mundo do desenvolvimento de software com foco em Desenvolvimento Web. Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
+Sou uma profissional apaixonada por tecnologia e motivada a criar soluções criativas e funcionais. Com 21 anos de idade e cursando Sistemas de Informação, venho constantemente me aprimorando no mundo do desenvolvimento de software com foco em Desenvolvimento Web. Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias e ferramentas</b>
 <br>

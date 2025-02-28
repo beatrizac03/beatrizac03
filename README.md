@@ -1,8 +1,11 @@
 ### Olá! 👋💻👩
 
-Sou uma profissional apaixonada por tecnologia e motivada a criar soluções criativas e funcionais. Com 21 anos de idade e cursando Sistemas de Informação, venho constantemente me aprimorando no mundo do desenvolvimento de software com foco em Desenvolvimento Web. Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
+## Sobre mim | About me
+<u>pt-br</u> Estudante de Sistemas de Informação, sou uma profissional apaixonada por tecnologia e motivada a criar soluções funcionais e criativas. Venho constantemente me aprofundando no mundo do Desenvolvimento Fullstack, utilizando PHP, Java e Frameworks JS. Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias e ferramentas</b>
+<u>en</u> System Information student, I'm a professional who is passionated about tech, motivated to create functional and creative solutions, I've been expanding my knowledge in Fullstack Development, with PHP, Java and JS Frameworks. Always in search for new challenges and opportunities to developer my experience in the programming universe. Welcome to my Github!
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias | Technologies </b>
 <br>
 
 <!-- 
@@ -14,37 +17,7 @@ Sou uma profissional apaixonada por tecnologia e motivada a criar soluções cri
   </a>
 </p>
 
-## Contato
-<!--
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/beatrizac03" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/png/github.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:beatrizaguiarc14@gmail.com" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/png/gmail3.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/beatriz-aguiar-campos-519286233/?originalSubdomain=br" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/png/linkedin.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/beatrizac03/beatrizac03/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-
-</div> -->
+## Contato | Contact
 
 <p align="center">
       <br/>
